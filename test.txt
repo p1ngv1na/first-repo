@@ -1,2 +1,6 @@
 testing.
+<<<<<<< HEAD
 Updating with Bash…
+=======
+Update with Tortoise…
+>>>>>>> d1f7d7adf5c6aefe4523765dcdfee8c113906f6b
